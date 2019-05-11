@@ -1,0 +1,4 @@
+2019-04-22T12:21:15+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\handmade\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 638
+
+2019-04-22T12:21:52+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\handmade\wp-admin\includes\plugin.php on line 1479
+

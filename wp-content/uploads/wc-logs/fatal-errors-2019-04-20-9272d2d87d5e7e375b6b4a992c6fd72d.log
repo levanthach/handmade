@@ -1,0 +1,28 @@
+2019-04-20T16:46:32+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 32768 bytes) in C:\xampp\htdocs\handmade\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 758
+
+2019-04-20T16:46:34+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in C:\xampp\htdocs\handmade\wp-content\themes\flatsome\inc\admin\kirki\modules\webfonts\webfonts.php on line 3
+
+2019-04-20T16:46:34+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in C:\xampp\htdocs\handmade\wp-includes\pomo\mo.php on line 297
+
+2019-04-20T16:46:58+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 20480 bytes) in C:\xampp\htdocs\handmade\wp-includes\functions.php on line 330
+
+2019-04-20T16:47:01+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 4096 bytes) in C:\xampp\htdocs\handmade\wp-includes\pomo\mo.php on line 297
+
+2019-04-20T16:47:13+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\handmade\wp-content\themes\flatsome\inc\functions\function-custom-css.php on line 513
+
+2019-04-20T16:47:18+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\handmade\wp-content\themes\flatsome\inc\functions\function-custom-css.php on line 513
+
+2019-04-20T16:47:21+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in C:\xampp\htdocs\handmade\wp-includes\wp-db.php on line 1924
+
+2019-04-20T16:47:21+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 114688 bytes) in C:\xampp\htdocs\handmade\wp-content\themes\flatsome\inc\functions\function-custom-css.php on line 513
+
+2019-04-20T16:47:25+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 270336 bytes) in C:\xampp\htdocs\handmade\wp-includes\pomo\streams.php on line 201
+
+2019-04-20T16:47:52+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 270336 bytes) in C:\xampp\htdocs\handmade\wp-includes\pomo\streams.php on line 201
+
+2019-04-20T16:53:38+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 28672 bytes) in C:\xampp\htdocs\handmade\wp-content\themes\flatsome\inc\admin\kirki\lib\class-aricolor.php on line 291
+
+2019-04-20T16:57:42+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\xampp\htdocs\handmade\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1341
+
+2019-04-20T16:59:58+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 270336 bytes) in C:\xampp\htdocs\handmade\wp-includes\pomo\streams.php on line 201
+

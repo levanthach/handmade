@@ -1,0 +1,204 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2019-04-22 12:47:02
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.7.3.1
+WORDPRESS:	5.0.4
+PHP INFO:	7.2.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 5000M (256M default) 
+RUN TYPE: Manual
+MEMORY STACK: 16MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP 
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:33 | filtered:0 | create:33 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+SQL CREATED: 20190422_handmade_c0ec841cd3bebf033532_20190422124605_database.sql 
+SQL FILE SIZE: 1.82MB 
+SQL FILE TIME: 2019-04-22 12:47:05 
+SQL RUNTIME: 3.076 sec. 
+MEMORY STACK: 16MB 
+
+******************************************************************************** 
+ARCHIVE Mode:ZipArchive Multi-Threaded 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/handmade 
+ARCHIVE FILE: 20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip 
+COMPRESSION: *ON* 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	140.27MB 
+STATS:	Dirs 830 | Files 6,585 | Total 7,415 
+SQL ADDED: 20190422_handmade_c0ec841cd3bebf033532_20190422124605_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1159
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1601
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1893
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2606
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3047
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3172
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3245
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3439
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3762
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3821
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4344
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5473
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6020
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6876
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7415
+    [filename] => C:\xampp\htdocs\handmade\wp-content\backups-dup-pro\tmp\20190422_handmade_c0ec841cd3bebf033532_20190422124605_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSED SIZE: 57.61MB 
+ARCHIVE RUNTIME: 17.930 sec. 
+MEMORY STACK: 6MB 
+Installer files added to archive 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, C:/xampp/htdocs/handmade/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 1.82MB 
+INSTALLER FILE: 29.07KB 
+ARCHIVE FILE: 58.5MB  
+EXPECTED FILE/DIRECTORY COUNT: 7,415 
+ACTUAL FILE/DIRECTORY COUNT: 7,415 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 677.330 sec.
+PEAK PHP MEMORY USED: 2MB
+DONE PROCESSING => 20190422_handmade 2019-04-22 12:58:19
+ 
